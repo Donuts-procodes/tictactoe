@@ -40,6 +40,6 @@ This project is **open-source** under the MIT License.
 Want to improve this game? Fork the repo & submit a **pull request**! 🚀  
 
 ---
-💙 **Developed by [Your Name](https://github.com/Donuts-procodes)**  
+💙 **Developed by [Ayush Budhiraja(Donuts)](https://github.com/Donuts-procodes)**  
 🔗 GitHub Repo: [Tic-Tac-Toe](https://github.com/Donuts-procodes/tictactoe)
 
